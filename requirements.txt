@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+python-multipart
+httpx
+pypdf
+scikit-learn
+huggingface_hub
+pytest

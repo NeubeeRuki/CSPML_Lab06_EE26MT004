@@ -1,0 +1,3 @@
+CSPML_TA_AI_v5 — V5.1.0
+Qwen3-4B-Instruct-2507 + TF-IDF RAG
+Render-compatible FastAPI application

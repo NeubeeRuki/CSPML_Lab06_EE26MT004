@@ -1,0 +1,49 @@
+CSPML_TA_AI_v5/
+│
+├── backend/
+│   ├── app.py
+│   ├── config.py
+│   ├── db.py
+│   ├── rag.py
+│   └── llm.py
+│
+├── frontend/
+│   ├── index.html
+│   ├── architecture.svg
+│   └── system_block_diagram.svg
+│
+├── data/
+│   ├── Users/
+│   ├── ncert/
+│   │   ├── Physics_XI_Part_1/
+│   │   │   ├── PDFs/
+│   │   │   ├── raw PDFs/
+│   │   │   ├── index/
+│   │   │   └── *.md
+│   │   ├── Physics_XI_Part_2/
+│   │   ├── Physics_XII_Part_1/
+│   │   └── Physics_XII_Part_2/
+│   └── Library/
+│
+├── storage/
+│   └── library/
+│
+├── tests/
+│   └── test_app.py
+│
+├── check_req.py
+├── requirements.txt
+├── README.md
+├── render.yaml
+├── .env.example
+├── .gitignore
+├── V5_VERSION.txt
+├── PROJECT_PLAN.md
+└── project_tree.txt
+
+Excluded from submission/source control:
+├── .env
+├── CSPML_LAB_ENV/
+├── __pycache__/
+├── .pytest_cache/
+└── *.pyc
